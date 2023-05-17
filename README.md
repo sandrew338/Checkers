@@ -7,4 +7,4 @@ This game is designed for 2 people. You need to play in any IDE for C++. The gam
 game control with buttons
 
 ## Screenshots
-![Title screen](https://github.com/sandrew338/Atlass_Dev_Project/blob/main/preview.png)
+![Title screen](https://github.com/sandrew338/Checkers/blob/main/Checkerswhithfunctions/x64/png/preview.png)
