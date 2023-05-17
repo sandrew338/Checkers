@@ -1,0 +1,2 @@
+C:\Users\Andrew\source\repos\Checkerswhithfunctions\x64\Debug\Checkerswhithfunctions.exe
+B:\documents\codding\c++\source\repos\Checkerswhithfunctions\x64\Debug\Checkerswhithfunctions.exe
